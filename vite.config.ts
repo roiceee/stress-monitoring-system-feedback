@@ -16,8 +16,8 @@ export default defineConfig({
       },
       includeAssets: ["favicon.ico", "apple-touch.png"],
       manifest: {
-        name: "Stress Monitoring Feedback",
-        short_name: "Bio Feedback",
+        name: "Stress Monitoring System Feedback",
+        short_name: "Stress Monitoring System Feedback",
         description: "Feedback for Stress Monitoring System",
         theme_color: "#FAF4D3",
         icons: [
