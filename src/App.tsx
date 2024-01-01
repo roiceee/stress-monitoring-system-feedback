@@ -48,7 +48,7 @@ function App() {
 
   return (
     <main
-      className="position-absolute"
+      className="position-absolute container"
       style={{
         maxWidth: "500px",
         top: "50%",
@@ -56,7 +56,7 @@ function App() {
         transform: "translate(-50%, -50%)",
       }}
     >
-      <section className="container rounded-2 border border-dark p-5">
+      <section className="container rounded-2 border border-dark p-5 main-card">
         <h2 className="mb-4 border-bottom border-black">
           Stress Monitoring System Feedback
         </h2>
