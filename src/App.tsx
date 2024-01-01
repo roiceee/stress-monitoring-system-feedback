@@ -64,7 +64,6 @@ function App() {
           <i>Project of Group 7</i>
         </div>
         <section
-          style={{ fontSize: "1.2rem" }}
           className="mt-4 d-flex flex-column gap-3"
         >
           <div>
