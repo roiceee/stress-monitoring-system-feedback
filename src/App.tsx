@@ -58,7 +58,7 @@ function App() {
     >
       <section className="container rounded-2 border border-dark p-5 main-card">
         <h2 className="mb-4 border-bottom border-black">
-          Stress Monitoring System Feedback
+          Stress Monitoring System
         </h2>
         <div>
           <i>Project of Group 7</i>
