@@ -36,7 +36,7 @@ export default function InstallPWA() {
 
   return (
     show && (
-      <section className="mt-2" style={{ textAlign: "right" }} onClick={installApp}>
+      <section className="mt-2" onClick={installApp}>
         <button className=" btn btn-info">
           <b>Install as an App</b>
         </button>
